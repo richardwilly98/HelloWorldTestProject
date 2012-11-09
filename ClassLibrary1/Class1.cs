@@ -11,5 +11,10 @@ namespace ClassLibrary1
         {
             return "Hello world";
         }
+
+        public string HelloWorld2()
+        {
+            return "Hello world #2";
+        }
     }
 }

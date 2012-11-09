@@ -16,5 +16,13 @@ namespace HelloWorldTestProject
             string helloWorld = klass.GetHelloWorld();
             Assert.AreEqual("Hello world", helloWorld);
         }
+
+        [TestMethod]
+        public void TestMethod1()
+        {
+            ClassLibrary1.Class1 klass = new ClassLibrary1.Class1();
+            string helloWorld = klass.HelloWorld2();
+            Assert.AreEqual("Hello world #2", helloWorld);
+        }
     }
 }
