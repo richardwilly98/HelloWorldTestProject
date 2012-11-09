@@ -1,0 +1,7 @@
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\bin\Debug\HelloWorldTestProject.dll
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\bin\Debug\HelloWorldTestProject.pdb
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\bin\Debug\ClassLibrary1.dll
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\bin\Debug\ClassLibrary1.pdb
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\obj\Debug\ResolveAssemblyReference.cache
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\obj\Debug\HelloWorldTestProject.dll
+d:\users\richard\documents\visual studio 2010\Projects\HelloWorldTestProject\HelloWorldTestProject\obj\Debug\HelloWorldTestProject.pdb
