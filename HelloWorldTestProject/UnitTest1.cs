@@ -22,7 +22,7 @@ namespace HelloWorldTestProject
         {
             ClassLibrary1.Class1 klass = new ClassLibrary1.Class1();
             string helloWorld = klass.GetHelloWorld("richard");
-            Assert.AreEqual("Hello world", helloWorld);
+            Assert.AreEqual("Hello " + "richard", helloWorld);
         }
     }
 }
